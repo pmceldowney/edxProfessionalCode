@@ -6,7 +6,7 @@ Once you get the hang of *it* you will keep on using *this* format
 
 * remember the basic
 * what is this
-* yay!
+* yay
 'console.writeline("Hello");'
 'thing in single quotes'
-"thing in double quotew"
+"thing in double quotes"
